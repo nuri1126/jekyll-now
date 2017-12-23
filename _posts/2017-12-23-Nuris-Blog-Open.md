@@ -7,6 +7,5 @@ title: Welcome to Nuri's Blog! :)
 
 ![_config.yml]({{ site.baseurl }}/images/apeache.png)
 
-
 앞으로 더 많이 꾸며야지!!!!!!!!
 ^______^
