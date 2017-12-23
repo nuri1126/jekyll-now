@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to Nuri's Blog! :)
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+누리의 블로그가 오픈되었습니다! 안녕~~~
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/apeache.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+앞으로 더 많이 꾸며야지!!!!!!!!
+^______^
